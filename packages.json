@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Corporate Package",
+            "description": "At our resort, we offer an outstanding corporate retreat package that is perfect for any size business.",
+            "image": "https://www.deraresort.com/images/featured/corporate-package-thumb.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Day Long Package",
+            "description": "Fill your weekend with thrill and excitement with the luxury facility of our 5-star resort near Dhaka.",
+            "image": "https://www.deraresort.com/images/day-long-package-thumb.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Honeymoon Package",
+            "description": "Summertime is finally here and what better way to celebrate than by taking your loved one away for a romantic getaway?",
+            "image": "https://www.deraresort.com/images/featured/honyemoon-packages-thumb.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Family Package",
+            "description": "When looking for family fun, many resort guests think of the typical things like swimming pools, water parks and amusement rides.",
+            "image": "https://www.deraresort.com/images/featured/family-package-thumb.jpg"
+        }
+    ]
+}
