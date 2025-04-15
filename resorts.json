@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "name": "Presidential Villa",
+            "price": {
+                "bdt": 120000,
+                "usd": 1017
+            },
+            "description": "Framed with picturesque views of the Bay of Bengal, the duplex Presidential Villa with private rooftop Pool is the epitome of fitness and relaxation.",
+            "image": "https://www.deraresort.com/images/home/presidential-villa-coxbazar.jpg"
+        },
+        {
+            "name": "Sea View Tower",
+            "price": {
+                "bdt": 9500,
+                "usd": 82
+            },
+            "description": "Sea, sky, and serene views embrace at the forefront of the Luxury Sea View Deluxe Rooms. These rooms will take your breath away with the scenic views of the seashore.",
+            "image": "https://www.deraresort.com/images/home/seaview-tower.jpg"
+        },
+        {
+            "name": "Family Villa",
+            "price": {
+                "bdt": 24000,
+                "usd": 206
+            },
+            "description": "Come together for a family reunion or a group vacation in our elegant Family Villas, and take delight in its modern amenities, exquisite design, and exceptional sense of space.",
+            "image": "https://www.deraresort.com/images/home/family-villa-generic.jpg"
+        },
+        {
+            "name": "Superior Villa",
+            "price": {
+                "bdt": 16000,
+                "usd": 137
+            },
+            "description": "With all the amenities that our Superior Villa offers, you will feel right at home. Our spacious and well-furnished rooms come with a variety of amenities to make your stay comfortable",
+            "image": "https://www.deraresort.com/images/home/superior-villa.jpg"
+        }
+    ]
+}
