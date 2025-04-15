@@ -7,7 +7,9 @@
                 "usd": 1017
             },
             "description": "Framed with picturesque views of the Bay of Bengal, the duplex Presidential Villa with private rooftop Pool is the epitome of fitness and relaxation.",
-            "image": "https://www.deraresort.com/images/home/presidential-villa-coxbazar.jpg"
+            "image": "https://www.deraresort.com/images/home/presidential-villa-coxbazar.jpg",
+            "no_of_rooms": 5,
+            "size_sft": 1335
         },
         {
             "name": "Sea View Tower",
@@ -16,7 +18,9 @@
                 "usd": 82
             },
             "description": "Sea, sky, and serene views embrace at the forefront of the Luxury Sea View Deluxe Rooms. These rooms will take your breath away with the scenic views of the seashore.",
-            "image": "https://www.deraresort.com/images/home/seaview-tower.jpg"
+            "image": "https://www.deraresort.com/images/home/seaview-tower.jpg",
+            "no_of_rooms": 2,
+            "size_sft": 290
         },
         {
             "name": "Family Villa",
@@ -25,7 +29,9 @@
                 "usd": 206
             },
             "description": "Come together for a family reunion or a group vacation in our elegant Family Villas, and take delight in its modern amenities, exquisite design, and exceptional sense of space.",
-            "image": "https://www.deraresort.com/images/home/family-villa-generic.jpg"
+            "image": "https://www.deraresort.com/images/home/family-villa-generic.jpg",
+            "no_of_rooms": 3,
+            "size_sft": 970
         },
         {
             "name": "Superior Villa",
@@ -34,7 +40,9 @@
                 "usd": 137
             },
             "description": "With all the amenities that our Superior Villa offers, you will feel right at home. Our spacious and well-furnished rooms come with a variety of amenities to make your stay comfortable",
-            "image": "https://www.deraresort.com/images/home/superior-villa.jpg"
+            "image": "https://www.deraresort.com/images/home/superior-villa.jpg",
+            "no_of_rooms": 2,
+            "size_sft": 730
         }
     ]
 }
