@@ -6,10 +6,12 @@
                 "bdt": 120000,
                 "usd": 1017
             },
+            "type": "Villa",
             "description": "Framed with picturesque views of the Bay of Bengal, the duplex Presidential Villa with private rooftop Pool is the epitome of fitness and relaxation.",
             "image": "https://www.deraresort.com/images/home/presidential-villa-coxbazar.jpg",
             "no_of_rooms": 5,
-            "size_sft": 1335
+            "size_sft": 1335,
+            "location": "Cox's Bazar"
         },
         {
             "name": "Sea View Tower",
@@ -17,10 +19,12 @@
                 "bdt": 9500,
                 "usd": 82
             },
+            "type": "Hotel",
             "description": "Sea, sky, and serene views embrace at the forefront of the Luxury Sea View Deluxe Rooms. These rooms will take your breath away with the scenic views of the seashore.",
             "image": "https://www.deraresort.com/images/home/seaview-tower.jpg",
             "no_of_rooms": 2,
-            "size_sft": 290
+            "size_sft": 290,
+            "location": "Cox's Bazar"
         },
         {
             "name": "Family Villa",
@@ -28,10 +32,12 @@
                 "bdt": 24000,
                 "usd": 206
             },
+            "type": "Villa",
             "description": "Come together for a family reunion or a group vacation in our elegant Family Villas, and take delight in its modern amenities, exquisite design, and exceptional sense of space.",
             "image": "https://www.deraresort.com/images/home/family-villa-generic.jpg",
             "no_of_rooms": 3,
-            "size_sft": 970
+            "size_sft": 970,
+            "location": "Cox's Bazar"
         },
         {
             "name": "Superior Villa",
@@ -39,10 +45,103 @@
                 "bdt": 16000,
                 "usd": 137
             },
+            "type": "Villa",
             "description": "With all the amenities that our Superior Villa offers, you will feel right at home. Our spacious and well-furnished rooms come with a variety of amenities to make your stay comfortable",
             "image": "https://www.deraresort.com/images/home/superior-villa.jpg",
             "no_of_rooms": 2,
-            "size_sft": 730
+            "size_sft": 730,
+            "location": "Cox's Bazar"
+        },
+        {
+            "name": "Heritage Cottage",
+            "no_of_rooms": 3,
+            "location": "Manikganj",
+            "size_sft": 431,
+            "type": "Cottage",
+            "description": "Dera Resort and Spa is located in the heart of the picturesque Manikganj district. We created this haven for nature lovers who want to escape the hustle and bustle of city life.",
+            "image": "https://www.deraresort.com/images/manikganj/heritage-cottage.jpg",
+            "price": {
+                "bdt": 8000,
+                "usd": 69
+            }
+        },
+        {
+            "name": "Hub Cottage",
+            "no_of_rooms": 4,
+            "size_sft": 460,
+            "location": "Manikganj",
+            "type": "Cottage",
+            "description": "If you're looking for a bit of luxury in your vacation spot, consider checking out our Hub Cottage. This secluded getaway is perfect for couples or small groups who want to enjoy some privacy and relaxation.",
+            "image": "https://www.deraresort.com/images/manikganj/hub-cottage.jpg",
+            "price": {
+                "bdt": 15000,
+                "usd": 128
+            }
+        },
+        {
+            "name": "Superior Family Cottage",
+            "no_of_rooms": 3,
+            "size_sft": 440,
+            "location": "Manikganj",
+            "type": "Cottage",
+            "description": "Get a first-class family treatment and enjoy a great time with your loved ones. Our Superior Family Cottage pleases you with ultimate relaxation with a touch of nature without any feeling of leaving any member behind.",
+            "image": "https://www.deraresort.com/images/superior-family-cottage-photo-1.jpg",
+            "price": {
+                "bdt": 20000,
+                "usd": 171
+            }
+        },
+        {
+            "name": "Presidential Cottage",
+            "no_of_rooms": 3,
+            "size_sft": 1192,
+            "location": "Manikganj",
+            "type": "Cottage",
+            "description": "The Presidential Cottage is perfect for those who want to enjoy the natural beauty of our resort while staying in an exclusive setting. This luxury cottage is perfect for those looking for a restful vacation at the resort.",
+            "image": "https://www.deraresort.com/images/presidential-cottage.jpg",
+            "price": {
+                "bdt": 50000,
+                "usd": 427
+            }
+        },
+        {
+            "name": "Golf view Cottages",
+            "no_of_rooms": 10,
+            "size_sft": 400,
+            "location": "Manikganj",
+            "type": "Cottage",
+            "description": "If you're looking for a place to relax and enjoy the great outdoors, look no further than our Golf View Cottage. This 10-room rental offers stunning views of the courses and is perfect for couples or small groups.",
+            "image": "https://www.deraresort.com/images/manikganj/golf-view-cottegs.jpg",
+            "price": {
+                "bdt": 10000,
+                "usd": 85
+            }
+        },
+        {
+            "name": "VIP Cottages",
+            "no_of_rooms": 2,
+            "size_sft": 500,
+            "location": "Manikganj",
+            "type": "Cottage",
+            "description": "VIP cottage is our resort’s newest and most luxurious accommodation. With its private pool and spa, this cottage offers a serene escape from the hustle and bustle of everyday life.",
+            "image": "https://www.deraresort.com/images/manikganj/family-cottage.jpg",
+            "price": {
+                "bdt": 30000,
+                "usd": 256
+            }
+        },
+        {
+            "name": "Lakeside Cottages",
+            "no_of_rooms": 14,
+            "size_sft": 400,
+            "location": "Manikganj",
+            "type": "Cottage",
+            "description": "There are 7 lakeside cottages suitably built to enjoy both sunset and sunrise besides a vast lake.",
+            "image": "https://www.deraresort.com/images/lake-side-view.jpg",
+            "price": {
+                "bdt": 15000,
+                "usd": 128
+            }
         }
     ]
 }
