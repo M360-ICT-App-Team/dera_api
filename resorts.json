@@ -14,16 +14,16 @@
             "location": "Cox's Bazar"
         },
         {
-            "name": "Sea View Tower",
+            "name": "Superior Villa",
             "price": {
-                "bdt": 9500,
-                "usd": 82
+                "bdt": 16000,
+                "usd": 137
             },
-            "type": "Hotel",
-            "description": "Sea, sky, and serene views embrace at the forefront of the Luxury Sea View Deluxe Rooms. These rooms will take your breath away with the scenic views of the seashore.",
-            "image": "https://www.deraresort.com/images/home/seaview-tower.jpg",
+            "type": "Villa",
+            "description": "With all the amenities that our Superior Villa offers, you will feel right at home. Our spacious and well-furnished rooms come with a variety of amenities to make your stay comfortable",
+            "image": "https://www.deraresort.com/images/home/superior-villa.jpg",
             "no_of_rooms": 2,
-            "size_sft": 290,
+            "size_sft": 730,
             "location": "Cox's Bazar"
         },
         {
@@ -40,17 +40,17 @@
             "location": "Cox's Bazar"
         },
         {
-            "name": "Superior Villa",
-            "price": {
-                "bdt": 16000,
-                "usd": 137
-            },
-            "type": "Villa",
-            "description": "With all the amenities that our Superior Villa offers, you will feel right at home. Our spacious and well-furnished rooms come with a variety of amenities to make your stay comfortable",
-            "image": "https://www.deraresort.com/images/home/superior-villa.jpg",
+            "name": "VIP Cottages",
             "no_of_rooms": 2,
-            "size_sft": 730,
-            "location": "Cox's Bazar"
+            "size_sft": 500,
+            "location": "Manikganj",
+            "type": "Cottage",
+            "description": "VIP cottage is our resort’s newest and most luxurious accommodation. With its private pool and spa, this cottage offers a serene escape from the hustle and bustle of everyday life.",
+            "image": "https://www.deraresort.com/images/manikganj/family-cottage.jpg",
+            "price": {
+                "bdt": 30000,
+                "usd": 256
+            }
         },
         {
             "name": "Heritage Cottage",
@@ -118,17 +118,17 @@
             }
         },
         {
-            "name": "VIP Cottages",
-            "no_of_rooms": 2,
-            "size_sft": 500,
-            "location": "Manikganj",
-            "type": "Cottage",
-            "description": "VIP cottage is our resort’s newest and most luxurious accommodation. With its private pool and spa, this cottage offers a serene escape from the hustle and bustle of everyday life.",
-            "image": "https://www.deraresort.com/images/manikganj/family-cottage.jpg",
+            "name": "Sea View Tower",
             "price": {
-                "bdt": 30000,
-                "usd": 256
-            }
+                "bdt": 9500,
+                "usd": 82
+            },
+            "type": "Hotel",
+            "description": "Sea, sky, and serene views embrace at the forefront of the Luxury Sea View Deluxe Rooms. These rooms will take your breath away with the scenic views of the seashore.",
+            "image": "https://www.deraresort.com/images/home/seaview-tower.jpg",
+            "no_of_rooms": 2,
+            "size_sft": 290,
+            "location": "Cox's Bazar"
         },
         {
             "name": "Lakeside Cottages",
