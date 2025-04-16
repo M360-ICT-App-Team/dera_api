@@ -13,7 +13,7 @@
             "size_sft": 1335,
             "location": "Cox's Bazar",
             "popular": true,
-            "new": true,
+            "new_resort": true,
             "amenities": [
                 "3 King & 2 Queen Size Bed",
                 "Living Room",
@@ -100,7 +100,7 @@
             "no_of_rooms": 2,
             "size_sft": 730,
             "popular": true,
-            "new": false,
+            "new_resort": false,
             "location": "Cox's Bazar",
             "complimentary": [
                 "Breakfast",
@@ -156,7 +156,7 @@
             },
             "type": "Villa",
             "popular": true,
-            "new": true,
+            "new_resort": true,
             "description": "Come together for a family reunion or a group vacation in our elegant Family Villas, and take delight in its modern amenities, exquisite design, and exceptional sense of space.\nTreat yourself to luxury in our 970 square feet Family Suite, with 2 Bed Rooms, a separate living area, and a large furnished Lounge along with a balcony for stunning views of the Bay of Bengal.\nThis duplex Villa consists of 2 family suites (1 on Ground Floor and 1 on 1st Floor) and every suite contains 1 Lounge, 2 Bed Rooms, 2 Baths, 1 Balcony.",
             "image": "https://www.deraresort.com/images/home/family-villa-generic.jpg",
             "no_of_rooms": 3,
@@ -218,7 +218,7 @@
             "location": "Manikganj",
             "type": "Cottage",
             "popular": true,
-            "new": false,
+            "new_resort": false,
             "description": "VIP cottage is our resort’s one of the newest addition to please our visitors from different parts of the country. With its serene view, the resort offers a great gateway from the hustle and bustle of everyday life.\nIts peaceful setting is perfect for unwinding a day-long experience of the area's charming scenarios. The cottage offers 517 SFT total space with 2 adults occupancy. ",
             "image": "https://www.deraresort.com/images/manikganj/family-cottage.jpg",
             "price": {
@@ -255,7 +255,7 @@
             "size_sft": 431,
             "type": "Cottage",
             "popular": true,
-            "new": true,
+            "new_resort": true,
             "description": "Dera Resort and Spa is located in the heart of the picturesque Manikganj district. We created this haven for nature lovers who want to escape the hustle and bustle of city life.\nOur 431 SFT cottage offers cozy accommodations for 2 people, perfect for couples and families. With its stunning landscaped gardens and soothing spa treatments, this cottage provides a serene retreat from the worries of daily life.",
             "image": "https://www.deraresort.com/images/manikganj/heritage-cottage.jpg",
             "price": {
@@ -301,7 +301,7 @@
             "location": "Manikganj",
             "type": "Cottage",
             "popular": true,
-            "new": true,
+            "new_resort": true,
             "description": "If you're looking for a bit of luxury in your vacation spot, consider checking out our Hub Cottage. This secluded getaway is perfect for couples or small groups who want to enjoy some privacy and relaxation. It's 431 SFT size gives just enough room for 2 adults or small families to have a best experience.\nBesides, its swimming pool and delicious best-cooked meals are sure to leave you feeling pampered and refreshed. The scenic view, along with all the facilities, will ensure you a great vacation within just a few hours' drive from Dhaka.",
             "image": "https://www.deraresort.com/images/manikganj/hub-cottage.jpg",
             "price": {
@@ -336,7 +336,7 @@
             "location": "Manikganj",
             "type": "Cottage",
             "popular": true,
-            "new": false,
+            "new_resort": false,
             "description": "Get a first-class family treatment and enjoy a great time with your loved ones. Our Superior Family Cottage pleases you with ultimate relaxation with a touch of nature without any feeling of leaving any member behind.\nAvailable with 2 & 3 beds option you now have the luxury to fulfill your full family trip accommodating 4-5 person.",
             "image": "https://www.deraresort.com/images/superior-family-cottage-photo-1.jpg",
             "price": {
@@ -381,7 +381,7 @@
             "location": "Manikganj",
             "type": "Cottage",
             "popular": true,
-            "new": false,
+            "new_resort": false,
             "description": "The Presidential Cottage is perfect for those who want to enjoy the natural beauty of our resort while staying in an exclusive setting. This luxury cottage is perfect for those looking for a restful vacation around Dhaka.\nThe cottage is placed close to all the resort's wonderful amenities and facilities. Its 1192 SFT size with a wonderful landscape is sure to please you, be it in summer, monsoon or winter, accommodating up to 2 adults. Add it to your bucket list as we await your welcoming visit to the land of beauty and delight.",
             "image": "https://www.deraresort.com/images/presidential-cottage.jpg",
             "price": {
@@ -418,7 +418,7 @@
             "location": "Manikganj",
             "type": "Cottage",
             "popular": true,
-            "new": true,
+            "new_resort": true,
             "description": "If you're looking for a place to relax and enjoy the great outdoors, look no further than our Golf View Cottage. This cottage offers stunning views of the courses and is perfect for couples or small groups.\nIn short, our Golf View Cottage is the perfect place for a romantic getaway or a family vacation. 401 SFT rooms accommodating 2 adults in each cottage with views of the golf course this cottage is perfect for relaxing and enjoying nature.",
             "image": "https://www.deraresort.com/images/manikganj/golf-view-cottegs.jpg",
             "price": {
@@ -463,7 +463,7 @@
             },
             "type": "Hotel",
             "popular": true,
-            "new": false,
+            "new_resort": false,
             "description": "Sea, sky, and serene views embrace at the forefront of the Luxury Sea View Deluxe Rooms. These rooms will take your breath away with the scenic views of the seashore.",
             "image": "https://www.deraresort.com/images/home/seaview-tower.jpg",
             "no_of_rooms": 2,
@@ -524,7 +524,7 @@
             "location": "Manikganj",
             "type": "Cottage",
             "popular": true,
-            "new": true,
+            "new_resort": true,
             "description": "Situated in the heart of the resort, our Lakeside Cottage features stunning views of the lake and the surrounding greenery. This beautifully decorated 409 SFT cottage has an open, airy feel with plenty of room accommodating 2 people.\nThe cottage includes a comfortable king-size bed, sunset deck, hotel mode TV, and many other features and amenities.",
             "image": "https://www.deraresort.com/images/lake-side-view.jpg",
             "price": {
